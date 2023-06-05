@@ -1,3 +1,3 @@
 # First Week Project
 
-Simple personal portfiolio Web App
+Simple personal portfolio Web App
