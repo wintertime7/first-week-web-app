@@ -18,14 +18,13 @@ function Home() {
 
   return (
     <div>
-      <div className="body-area">
-        <div className="left">
-          <p className='left-text'>Hi! My name is</p>
+      <div className="home-body-area">
+        <div className="home-left">
+          <p className='home-left-text'>Hi! My name is</p>
           <h2>Rainers <span style={{ color:textColor, fontStyle:fontStyle}} className='bodySurnameSpan'
             onClick={handleColorChange}>Smolenskis</span></h2>
-          <p id='psParagraph'>P.S. Click on my surname ^</p>
+          <p id='psParagraph'>Click to change color ^</p>
         </div>
-        <div className="right"></div>
       </div>
     </div>
   )
