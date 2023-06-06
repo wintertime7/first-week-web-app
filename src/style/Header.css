@@ -18,7 +18,8 @@ li, a, button {
   justify-content: space-between;
   align-items: center;
   padding: 30px 10%;
-  background-color: var(--header-color);
+  background-color:rgba(37, 36, 34, 0.8);
+  border-radius: 0 0 15px 15px;
 }
 
 .logo {
@@ -53,7 +54,7 @@ li, a, button {
 }
 
 .contact-button button:hover {
-  background-color:rgb(230, 57, 70, 0.8);
+  background-color:rgba(230, 57, 70, 0.8);
 }
 
 #surname-span {
